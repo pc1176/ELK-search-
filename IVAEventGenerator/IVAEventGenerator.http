@@ -1,0 +1,6 @@
+@IVAEventGenerator_HostAddress = http://localhost:5026
+
+GET {{IVAEventGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MongoDBPOC\\IVAEventGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|d:\\mongodbpoc\\ivaeventgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|d:\\mongodbpoc\\ivaeventgenerator\\ivaeventgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|solutionrelative:ivaeventgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F3A812-0266-4054-8096-39F7A3236551}|..\\RetriveELKlogs\\RetriveELKlogs.csproj|d:\\mongodbpoc\\retriveelklogs\\ivaeventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|d:\\mongodbpoc\\ivaeventgenerator\\logstashforwarderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|solutionrelative:logstashforwarderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|d:\\mongodbpoc\\ivaeventgenerator\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|solutionrelative:valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|d:\\mongodbpoc\\ivaeventgenerator\\ivaevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}|IVAEventGenerator.csproj|solutionrelative:ivaevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F3A812-0266-4054-8096-39F7A3236551}|..\\RetriveELKlogs\\RetriveELKlogs.csproj|d:\\mongodbpoc\\retriveelklogs\\ivaevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F3A812-0266-4054-8096-39F7A3236551}|..\\RetriveELKlogs\\RetriveELKlogs.csproj|d:\\mongodbpoc\\retriveelklogs\\eventprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49F3A812-0266-4054-8096-39F7A3236551}|..\\RetriveELKlogs\\RetriveELKlogs.csproj|d:\\mongodbpoc\\retriveelklogs\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVAEventsController.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\RetriveELKlogs\\IVAEventsController.cs",
+              "RelativeDocumentMoniker": "..\\RetriveELKlogs\\IVAEventsController.cs",
+              "ToolTip": "D:\\MongoDBPOC\\RetriveELKlogs\\IVAEventsController.cs",
+              "RelativeToolTip": "..\\RetriveELKlogs\\IVAEventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:47:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\IVAEventGenerator\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ValuesController.cs",
+              "ToolTip": "D:\\MongoDBPOC\\IVAEventGenerator\\ValuesController.cs",
+              "RelativeToolTip": "ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:37:16.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVAEvents.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\IVAEventGenerator\\IVAEvents.cs",
+              "RelativeDocumentMoniker": "IVAEvents.cs",
+              "ToolTip": "D:\\MongoDBPOC\\IVAEventGenerator\\IVAEvents.cs",
+              "RelativeToolTip": "IVAEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:31:24.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogstashForwarderService.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\IVAEventGenerator\\LogstashForwarderService.cs",
+              "RelativeDocumentMoniker": "LogstashForwarderService.cs",
+              "ToolTip": "D:\\MongoDBPOC\\IVAEventGenerator\\LogstashForwarderService.cs",
+              "RelativeToolTip": "LogstashForwarderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:19:35.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVAEvents.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\RetriveELKlogs\\IVAEvents.cs",
+              "RelativeDocumentMoniker": "..\\RetriveELKlogs\\IVAEvents.cs",
+              "ToolTip": "D:\\MongoDBPOC\\RetriveELKlogs\\IVAEvents.cs",
+              "RelativeToolTip": "..\\RetriveELKlogs\\IVAEvents.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:16:16.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVAEventGeneration.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\IVAEventGenerator\\IVAEventGeneration.cs",
+              "RelativeDocumentMoniker": "IVAEventGeneration.cs",
+              "ToolTip": "D:\\MongoDBPOC\\IVAEventGenerator\\IVAEventGeneration.cs",
+              "RelativeToolTip": "IVAEventGeneration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:15:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventProcessingService.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\RetriveELKlogs\\EventProcessingService.cs",
+              "RelativeDocumentMoniker": "..\\RetriveELKlogs\\EventProcessingService.cs",
+              "ToolTip": "D:\\MongoDBPOC\\RetriveELKlogs\\EventProcessingService.cs",
+              "RelativeToolTip": "..\\RetriveELKlogs\\EventProcessingService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:14:53.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElasticsearchService.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\RetriveELKlogs\\ElasticsearchService.cs",
+              "RelativeDocumentMoniker": "..\\RetriveELKlogs\\ElasticsearchService.cs",
+              "ToolTip": "D:\\MongoDBPOC\\RetriveELKlogs\\ElasticsearchService.cs",
+              "RelativeToolTip": "..\\RetriveELKlogs\\ElasticsearchService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:13:48.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MongoDBPOC\\IVAEventGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MongoDBPOC\\IVAEventGenerator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:12:32.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

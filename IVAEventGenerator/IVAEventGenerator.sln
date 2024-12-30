@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IVAEventGenerator", "IVAEventGenerator.csproj", "{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetriveELKlogs", "..\RetriveELKlogs\RetriveELKlogs.csproj", "{49F3A812-0266-4054-8096-39F7A3236551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A3F035-CEA5-409A-BC4F-569A0DC14CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F3A812-0266-4054-8096-39F7A3236551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F3A812-0266-4054-8096-39F7A3236551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F3A812-0266-4054-8096-39F7A3236551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F3A812-0266-4054-8096-39F7A3236551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13F38E90-4421-4368-A9D0-FB7BBC77F75B}
+	EndGlobalSection
+EndGlobal
